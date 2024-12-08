@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "paradas" ALTER COLUMN "tipo" SET DATA TYPE VARCHAR(15);
